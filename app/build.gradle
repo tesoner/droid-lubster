@@ -1,7 +1,7 @@
 apply plugin: 'com.novoda.bintray-release'
 apply plugin: 'com.android.library'
 
-def VERSION_NAME = "0.1.1"
+def VERSION_NAME = "0.1.2"
 
 //apply plugin: 'com.novoda.bintray-release'
 android {
@@ -39,8 +39,8 @@ dependencies {
 }
 
 publish {
-    def githubURL = 'https://github.com/tesoner/droid-lubster.git'
-    def groupProjectID = 'io.sozin.droidlubster'
+    def githubURL = 'https://github.com/tesoner/droid-lubster'
+    def groupProjectID = 'io.sozin'
     def artifactProjectID = 'droidlubster'
     def publishVersionID = VERSION_NAME
 
