@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Lubster</string>
+    <string name="error_password_length">Uuups. The password length must have 6 to 32 digits</string>
+    <string name="message_invalid_session_version">Invalid session version. Please login again</string>
+    <string name="action_accept">Accept</string>
+    <string name="error_email_invalid">Uuups.. Invalid email</string>
+    <string name="w_error">Error</string>
+    <string name="prompt_attention">Attention</string>
+</resources>

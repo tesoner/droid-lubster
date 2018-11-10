@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_email_invalid">Uuups.. Email incorrecto</string>
+    <string name="error_password_length">Uuups. La contraseña debe tener entre 6 y 32 dígitos</string>
+    <string name="message_invalid_session_version">Versión de la sesión inválida. Por favor ingrese nuevamente</string>
+    <string name="action_accept">Aceptar</string>
+    <string name="w_error">Error</string>
+    <string name="prompt_attention">Atención</string>
+</resources>
