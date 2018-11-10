@@ -1,1 +1,1 @@
-include ':samples', ':droidlubster'
+include ':samples', ':app'
